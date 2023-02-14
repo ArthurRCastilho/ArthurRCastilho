@@ -1,15 +1,22 @@
 ### Hello, my name is Arthur Rodrigues, and my nickname is "ArthurLaVidali"
+### Olá, meu nome é Arthur Rodrigues, e meu nickname é "ArthurLaVidali"
 ### Welcome to my GitHub profile! 👋
+### Seja bem vindo ao meu perfil do GitHub! 👋
 
 
 - ⚡ Fun fact: <br>
     I am currently studying at IF Goiano, in the Computer Science course;<br>
     I hate giving up, I only stop doing something when I achieve my goal.<br>
+    
+    <br>
+    
+    Atualmente estudo no IF Goiano, no curso de Ciências da Computação; <br>
+    Detesto desistir, só deixo de fazer algo quando alcanço o meu objetivo.<br>
 
     <div>
-    <a href="https://github.com/seu-usuário-aqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaVidali&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLaVidali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/ArthurLaVidali">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaVidali&layout=compact&langs_count=7&theme=dracula" height="500" width="400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLaVidali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="350" width="250" />
     </div>
 
 

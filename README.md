@@ -1,7 +1,6 @@
 ### Hello, my name is Arthur Rodrigues, and my nickname is "ArthurLaVidali"
 ### Welcome to my GitHub profile! 👋
 
-<!--
 
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
 Java; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>   
@@ -21,4 +20,3 @@ PHP. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-origin
     I am currently studying at IF Goiano, in the Computer Science course;<br>
     I hate giving up, I only stop doing something when I achieve my goal.<br>
 
--->

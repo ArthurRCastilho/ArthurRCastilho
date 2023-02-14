@@ -15,15 +15,9 @@
 
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
     <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" width="80" margin-right="40" />   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" margin-right="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80" margin-right="40" />    
-    </div>
-    
-    <div>
-        Java
-        Python
-        PHP
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" width="80" margin-right="40" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" width="80" margin-right="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80" margin-right="40" />   
     </div>
 
 

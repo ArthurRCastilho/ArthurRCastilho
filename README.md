@@ -2,12 +2,19 @@
 ### Welcome to my GitHub profile! 👋
 
 
+- ⚡ Fun fact: <br>
+    I am currently studying at IF Goiano, in the Computer Science course;<br>
+    I hate giving up, I only stop doing something when I achieve my goal.<br>
+
+
+
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" width="80" margin-right="10" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" margin-right="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" width="80" margin-right="80" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" margin-right="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80" margin-right="80" />
 </div>
+
 
 - 📫 Contatos: / Contact: <br>
 <div>
@@ -17,8 +24,3 @@
 <a href = "mailto:arthurcas2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-rodrigues-a01b53258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-- ⚡ Fun fact: <br>
-    I am currently studying at IF Goiano, in the Computer Science course;<br>
-    I hate giving up, I only stop doing something when I achieve my goal.<br>
-

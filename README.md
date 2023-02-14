@@ -18,6 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" width="80" margin-right="40" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" margin-right="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80" margin-right="40" />
+        Java      Python       PHP    
     </div>
 
 
@@ -30,6 +31,3 @@
     <a href="https://www.linkedin.com/in/arthur-rodrigues-a01b53258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 <br>
-
-[Snake animation](https://github.com/ArthurLaVidali/ArthurLaVidali/blob/output/github-contribution-grid-snake.svg)
-

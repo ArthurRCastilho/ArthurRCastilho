@@ -3,9 +3,6 @@
 
 
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
-Java; <br>
-Python; <br>
-PHP. <br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" width="80" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" />

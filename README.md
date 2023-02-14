@@ -5,7 +5,7 @@
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
 Java; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>   
 Python; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
-PHP. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" / height="80" width="80"></i><br>
+PHP. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80"/><br>
 
 - 📫 Contatos: / Contact: <br>
 <div>

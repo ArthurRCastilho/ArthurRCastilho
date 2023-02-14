@@ -1,6 +1,8 @@
 ### Hello, my name is Arthur Rodrigues, and my nickname is "ArthurLaVidali"
-### Olá, meu nome é Arthur Rodrigues, e meu nickname é "ArthurLaVidali"
 ### Welcome to my GitHub profile! 👋
+
+
+### Olá, meu nome é Arthur Rodrigues, e meu nickname é "ArthurLaVidali"
 ### Seja bem vindo ao meu perfil do GitHub! 👋
 
 
@@ -15,8 +17,8 @@
 
     <div>
     <a href="https://github.com/ArthurLaVidali">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaVidali&layout=compact&langs_count=7&theme=dracula" height="500" width="400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLaVidali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="350" width="250" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaVidali&layout=compact&langs_count=7&theme=dracula" height="550" width="450"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLaVidali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="400" width="300" />
     </div>
 
 

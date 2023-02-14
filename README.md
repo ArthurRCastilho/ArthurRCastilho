@@ -3,7 +3,7 @@
 
 
 - 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
-Java; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg=?height=20?wheight=20" /><br>   
+Java; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>   
 Python; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
 PHP. <i class="devicon-php-plain"></i><br>
 

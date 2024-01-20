@@ -16,9 +16,9 @@
     Detesto desistir, só deixo de fazer algo quando alcanço o meu objetivo.<br>
 
     <div>
-    <a href="https://github.com/ArthurLaVidali">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaVidali&layout=compact&langs_count=7&theme=dracula" height="550" width="450"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLaVidali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="400" width="300" />
+    <a href="https://github.com/ArthurRCastilho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRCastilho&layout=compact&langs_count=7&theme=dracula" height="550" width="450"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRCastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="400" width="300" />
     </div>
 
 

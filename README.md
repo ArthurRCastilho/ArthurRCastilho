@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile! 👋
 
 
-### Olá, meu nome é Arthur Rodrigues, e meu nickname é "ArthurLaVidali"
+### Olá, meu nome é Arthur Rodrigues
 ### Seja bem vindo ao meu perfil do GitHub! 👋
 
 

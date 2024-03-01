@@ -1,4 +1,4 @@
-### Hello, my name is Arthur Rodrigues, and my nickname is "ArthurLaVidali"
+### Hello, my name is Arthur Rodrigues
 ### Welcome to my GitHub profile! 👋
 
 

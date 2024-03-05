@@ -16,8 +16,8 @@ Estudante apaixonado por automação. Atualmente cursando Ciências da Computaç
 
     <div>
     <a href="https://github.com/ArthurRCastilho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRCastilho&layout=compact&langs_count=7&theme=dracula" height="550" width="450"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRCastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="550" width="450" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRCastilho&layout=compact&langs_count=7&theme=dracula" height="450" width="400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRCastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="500" width="400" />
     </div>
 
 

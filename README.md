@@ -1,19 +1,18 @@
-### Hello, my name is Arthur Rodrigues
-### Welcome to my GitHub profile! 👋
+### Seja Bem Vindo ao meu Perfil.
+Estudante apaixonado por automação. Atualmente cursando Ciências da Computação
 
-
-### Olá, meu nome é Arthur Rodrigues
-### Seja bem vindo ao meu perfil do GitHub! 👋
-
-
-- ⚡ Fun fact: <br>
-    I am currently studying at IF Goiano, in the Computer Science course;<br>
-    I hate giving up, I only stop doing something when I achieve my goal.<br>
-    
-    <br>
-    
-    Atualmente estudo no IF Goiano, no curso de Ciências da Computação; <br>
-    Detesto desistir, só deixo de fazer algo quando alcanço o meu objetivo.<br>
+- 📚 Aluno de Ciências da Computação no [IFGoiano Campus Morrinhos](https://www.ifgoiano.edu.br/home/index.php/morrinhos.html)
+- 🎮 Gosto de jogos de Tiro e sou bem competitivo em tudo
+- ⚽️ Apaixonado pelo Futebol
+- 🖥️ Atualmente mais focado em:<br>
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
     <div>
     <a href="https://github.com/ArthurRCastilho">
@@ -22,16 +21,6 @@
     </div>
 
 
-- 🌱 Atuamente estou aprendendo / I’m currently learning: <br>
-    <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" width="80" margin-right="40" />   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" width="80" margin-right="40" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="80" width="80" margin-right="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80" margin-right="40" />   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="80" width="80" margin-right="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="80" width="80" margin-right="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="80" width="80" margin-right="40" />
-    </div>
 
 
 - 📫 Contatos: / Contact: <br>

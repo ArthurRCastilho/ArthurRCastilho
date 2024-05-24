@@ -1,9 +1,7 @@
 ### Seja Bem Vindo ao meu Perfil.
-Estudante apaixonado por automação. Atualmente cursando Ciências da Computação
+Estudante cursando Ciências da Computação
 
 - 📚 Aluno de Ciências da Computação no [IFGoiano Campus Morrinhos](https://www.ifgoiano.edu.br/home/index.php/morrinhos.html)
-- 🎮 Gosto de jogos de Tiro e sou bem competitivo em tudo
-- ⚽️ Apaixonado pelo Futebol
 - 🖥️ Atualmente mais focado em:<br>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

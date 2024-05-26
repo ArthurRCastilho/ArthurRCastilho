@@ -1,7 +1,4 @@
-### Seja Bem Vindo ao meu Perfil.
-Estudante cursando Ciências da Computação
-
-- 📚 Aluno de Ciências da Computação no [IFGoiano Campus Morrinhos](https://www.ifgoiano.edu.br/home/index.php/morrinhos.html)
+![Header](./github-header-image.png)
 
 ### 🖥️ Skills
 

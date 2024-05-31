@@ -27,3 +27,8 @@
     <a href="https://www.linkedin.com/in/arthur-rodrigues-a01b53258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 <br>
+
+<div>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurRCastilho&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="salihgueler"/>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRCastilho&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="salihgueler"/>
+</div>

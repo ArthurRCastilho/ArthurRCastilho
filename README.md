@@ -35,3 +35,7 @@
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRCastilho&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="salihgueler"/>
 </a>
 </p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RhennanAugusto/count.svg?"  />
+</div>

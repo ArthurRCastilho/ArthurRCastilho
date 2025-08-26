@@ -40,13 +40,11 @@
     </div>
 <br>
 
+![](https://komarev.com/ghpvc/?username=ArthurRCastilho&abbreviated=true)
+
 <p align="center">
 <a href="https://github.com/ArthurRCastilho">
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurRCastilho&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="salihgueler"/>
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRCastilho&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="salihgueler"/>
 </a>
 </p>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RhennanAugusto/count.svg?"  />
-</div>
